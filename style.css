@@ -1,0 +1,15 @@
+.cardGame {
+    width: 50%;
+    height: 80%;
+    background-color: red;
+}
+.card p {
+    width: 90%;
+/*    height: 90%;*/
+    background-color: grey;
+    margin: 2%;
+}
+
+.card h2 {
+    background-color: green;
+}
